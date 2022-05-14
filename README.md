@@ -1,1 +1,1 @@
-# coursera-test
+# coursera-fullstack-assignments
